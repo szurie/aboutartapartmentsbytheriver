@@ -419,8 +419,8 @@ var APP_DATA = {
           "target": "16-wejcie-do-apartamentu"
         },
         {
-          "yaw": 1.881808979847226,
-          "pitch": 0.17323023935985304,
+          "yaw": 1.9067753422477658,
+          "pitch": -0.0894566851032792,
           "rotation": 0,
           "target": "11-szafa-w-korytarzu"
         }
@@ -980,6 +980,12 @@ var APP_DATA = {
           "pitch": 0.7882613422483953,
           "rotation": 0,
           "target": "21-zmywarka"
+        },
+        {
+          "yaw": -0.549372284081656,
+          "pitch": 0.10617161384094231,
+          "rotation": 0,
+          "target": "6-drzwi-balkonowe"
         }
       ],
       "infoHotspots": []
